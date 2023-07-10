@@ -1,1 +1,18 @@
-ls -la
+total 64
+drwxr-xr-x 2 mark mark 4096 Jul 10 19:34 .
+drwxr-xr-x 6 mark mark 4096 Jul 10 18:46 ..
+-rwxr--r-- 1 mark mark   36 Jul 10 14:07 0-hello_world
+-rwxr--r-- 1 mark mark   28 Jul 10 18:50 1-confused_smiley
+-rwxr--r-- 1 mark mark   23 Jul 10 19:32 10-no_more_js
+-rwxr--r-- 1 mark mark   28 Jul 10 14:13 2-hellofile
+-rwxr--r-- 1 mark mark   39 Jul 10 14:13 3-twofiles
+-rwxr--r-- 1 mark mark   35 Jul 10 14:14 4-lastlines
+-rwxr--r-- 1 mark mark   35 Jul 10 14:22 5-firstlines
+-rwxr--r-- 1 mark mark   40 Jul 10 18:45 6-third_line
+-rwxr--r-- 1 mark mark   99 Jul 10 19:19 7-file
+-rwxr--r-- 1 mark mark   36 Jul 10 19:34 8-cwd_state
+-rwxr--r-- 1 mark mark   37 Jul 10 19:30 9-duplicate_last_line
+-rw-r--r-- 1 mark mark   26 Jul 10 14:05 README.md
+-rw-r--r-- 1 mark mark   12 Jul 10 19:19 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 mark mark    0 Jul 10 19:34 ls_cwd_content
+-rw-r--r-- 1 mark mark   41 Jul 10 18:42 testfile
